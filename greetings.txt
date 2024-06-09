@@ -1,1 +1,3 @@
-  Hello, Git and GitHub! This is a conflicting change.
+collab-branch
+ Hello, Git and GitHub! Collaboration is key!
+
